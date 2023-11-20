@@ -2,7 +2,7 @@
 	Program purpose: Declare FOUR (4) arrays named studentID of type int, studentName of type string,
 	scores of type double, and attendance of type int. Ensure that the arrays can store data
 	for at least FIFTY (50) students.
-	Programmer: MUHAMMAD IRFAN BIN MOHD LIZAN
+	Programmer: MUHAMMAD RUZAINI BIN CHE DIN
 	DATE 17 NOVEMBER 2023
 */
 
