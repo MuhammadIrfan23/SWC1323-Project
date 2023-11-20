@@ -1,7 +1,7 @@
 /* 
 	Program purpose: to calculate the average scores for all
 	students in the array scores.
-	Programmer:MUHAMMAD IRFAN BIN MOHD LIZAN
+	Programmer:MUHAMMAD RUZAINI BIN CHE DIN
 	DATE:19 NOVEMBER 2023
 */
 
